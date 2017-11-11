@@ -30,4 +30,5 @@ $ npm start
 
 - Host blog on this site. Blog creation.. Need database for this.
 - Interactive map of the world with hidden places I know from living and travelling. Selection of my best photography or my fav. photographer shots. Further add some of the articles on culture etc I have written on these places. Tips should be interactive, articles can be external links.
+- Custom make and design my own map of Siagon. Make this in photoshop. Add this to the site. Make it interactive. ie. if you click on an area more info / pictures will come up. 
 - Add React game.
